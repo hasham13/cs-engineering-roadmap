@@ -27,7 +27,10 @@ My self directed software engineering syllabus and learning journal. Documenting
 ---
 
 ## 🛠️ Featured Projects
-
+*   **[Portfolio Website](https://your-username.github.io)** (In Progress) 
+    *   *Description:* A modern, responsive personal portfolio website to showcase my technical skills, engineering roadmap, and project deep-dives.
+    *   *Tech Stack:* React (or HTML/CSS/JS), Tailwind CSS, GitHub Pages / Vercel.
+    *   *Planning Doc:* [Design & Architecture](./05-projects/portfolio-website/planning-and-design.md)
 *   **Crypto Prediction Pipeline:** (In Progress) An end-to-end data pipeline predicting crypto trends.
 *   **Leetcode Logging System:** A custom utility to log, tag, and analyze daily Leetcode solutions.
 *   **Applied AI Agents:** Hands-on implementations of LLM orchestration and multi-agent workflows.
